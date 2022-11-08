@@ -1,5 +1,5 @@
 # videoplayer
-![Mintoicon](https://user-images.githubusercontent.com/76726126/200480374-ced8ef65-349f-48b9-8093-1a2394da0719.png)
+
 using FireAuth
 
 ## included properties
