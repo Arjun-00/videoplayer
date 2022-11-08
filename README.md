@@ -1,10 +1,10 @@
 # videoplayer
 
-A new Flutter project.
+using FireAuth
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+contain both Fire OTP, encription,decryption,Download option,Online stream,...etc
 
 A few resources to get you started if this is your first Flutter project:
 
