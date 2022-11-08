@@ -2,7 +2,7 @@
 
 using FireAuth
 
-## Getting Started
+## included properties
 
 contain both Fire OTP, encription,decryption,Download option,Online stream,...etc
 
